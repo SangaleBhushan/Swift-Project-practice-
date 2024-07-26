@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Lineal/Back/Acqua500</title>
+    <g id="Icons/Lineal/Back/Acqua500" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Group-3" transform="translate(8, 7)" stroke="#008F8F" stroke-width="2">
+            <polyline id="Path-3" stroke-linejoin="round" transform="translate(4.252, 8.504) scale(-1, 1) translate(-4.252, -8.504)" points="0 0 8.50396846 8.50396846 0 17.0079369"></polyline>
+            <line x1="0" y1="8.50396846" x2="16.991079" y2="8.50396846" id="Path-4"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>play@1x</title>
+    <g id="🟢-Login" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="C10" transform="translate(-238, -290)" stroke="#008F8F" stroke-width="2">
+            <g id="Group-3-Copy" transform="translate(124, 284)">
+                <g id="play" transform="translate(115.5, 7)">
+                    <polygon id="Path" stroke-linejoin="round" points="8 6 0 11 0 1"></polygon>
+                    <line x1="10.5" y1="0.289473684" x2="10.5" y2="10.7105263" id="Line"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

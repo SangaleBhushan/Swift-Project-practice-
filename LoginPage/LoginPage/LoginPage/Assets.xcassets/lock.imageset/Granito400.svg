@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons/Lineal/Lock/Granito400</title>
+    <g id="Icons/Lineal/Lock/Granito400" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+        <g id="lock-(1)" transform="translate(7, 4)" stroke="#485974" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <rect id="Rectangle" x="0" y="9" width="18" height="13" rx="2"></rect>
+            <path d="M3,9 L3,5 C3,2.23857625 5.6862915,0 9,0 C12.3137085,0 15,2.23857625 15,5 L15,9" id="Path"></path>
+            <line x1="9.5" y1="14" x2="9.5" y2="17.0218248" id="Path-24"></line>
+        </g>
+    </g>
+</svg>
